@@ -1,4 +1,7 @@
-class hello world
+class helloworld
 {
-  public static void
+  public static void main(String args[])
+  {
+    System.out.println("Hello Tejas M M")
+  }
 }
